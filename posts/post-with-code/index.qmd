@@ -1,13 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2024-08-07"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Tuesday August 6th"
+author: "Alex Boyle"
+date: "2024-08-06"
 ---
 
-This is a post with executable code.
+-   Started reading about Arrow 
 
-```{r}
-1 + 1
-```
+-   Started script for bringing data in from the server, out to arrow, then back in from arrow 

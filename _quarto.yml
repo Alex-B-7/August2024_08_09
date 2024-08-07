@@ -2,14 +2,7 @@ project:
   type: website
 
 website:
-  title: "August2024_08_09"
-  navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+  title: "Week of August 9th"
 format:
   html:
     theme: cosmo

@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Blog for week of August 9th",
     "section": "",
-    "text": "Tuesday August 6th\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nMonday August 5th\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\nNo matching items"
+    "text": "Thursday August 8th\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday August 7th\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday August 6th\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nMonday August 5th\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/august8/august8.html",
+    "href": "posts/august8/august8.html",
+    "title": "Thursday August 8th",
+    "section": "",
+    "text": "Completed rough draft RScript. Pulls in 4 files, converts them to parquet files and pulls them back in."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -19,5 +26,12 @@
     "title": "Monday August 5th",
     "section": "",
     "text": "More git practice and package book reading"
+  },
+  {
+    "objectID": "posts/august7/august7.html",
+    "href": "posts/august7/august7.html",
+    "title": "Wednesday August 7th",
+    "section": "",
+    "text": "Continued working with RScript on reading txt files and send them to arrow"
   }
 ]

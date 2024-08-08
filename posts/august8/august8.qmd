@@ -1,0 +1,7 @@
+---
+title: "Thursday August 8th"
+author: "Alex Boyle"
+date: "2024-08-08"
+---
+
+Completed rough draft RScript. Pulls in 4 files, converts them to parquet files and pulls them back in.

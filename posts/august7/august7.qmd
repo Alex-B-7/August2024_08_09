@@ -1,0 +1,7 @@
+---
+title: "Wednesday August 7th"
+author: "Alex Boyle"
+date: "2024-08-07"
+---
+
+Continued working with RScript on reading txt files and send them to arrow

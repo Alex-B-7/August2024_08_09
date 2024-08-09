@@ -4,21 +4,14 @@
     "href": "index.html",
     "title": "Blog for week of August 9th",
     "section": "",
-    "text": "Thursday August 8th\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday August 7th\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday August 6th\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nMonday August 5th\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\nNo matching items"
+    "text": "Friday August 9th\n\n\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nThursday August 8th\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday August 7th\n\n\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nTuesday August 6th\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\n\n\n\n\n\n\nMonday August 5th\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2024\n\n\nAlex Boyle\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/august8/august8.html",
-    "href": "posts/august8/august8.html",
-    "title": "Thursday August 8th",
+    "objectID": "posts/august7/august7.html",
+    "href": "posts/august7/august7.html",
+    "title": "Wednesday August 7th",
     "section": "",
-    "text": "Completed rough draft RScript. Pulls in 4 files, converts them to parquet files and pulls them back in."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Tuesday August 6th",
-    "section": "",
-    "text": "Started reading about Arrow \nStarted script for bringing data in from the server, out to arrow, then back in from arrow"
+    "text": "Continued working with RScript on reading txt files and send them to arrow"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -28,10 +21,24 @@
     "text": "More git practice and package book reading"
   },
   {
-    "objectID": "posts/august7/august7.html",
-    "href": "posts/august7/august7.html",
-    "title": "Wednesday August 7th",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Tuesday August 6th",
     "section": "",
-    "text": "Continued working with RScript on reading txt files and send them to arrow"
+    "text": "Started reading about Arrow \nStarted script for bringing data in from the server, out to arrow, then back in from arrow"
+  },
+  {
+    "objectID": "posts/august8/august8.html",
+    "href": "posts/august8/august8.html",
+    "title": "Thursday August 8th",
+    "section": "",
+    "text": "Completed rough draft RScript. Pulls in 4 files, converts them to parquet files and pulls them back in."
+  },
+  {
+    "objectID": "posts/august9/august9.html",
+    "href": "posts/august9/august9.html",
+    "title": "Friday August 9th",
+    "section": "",
+    "text": "Started building the package for Maui Trades script"
   }
 ]
